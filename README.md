@@ -10,10 +10,11 @@ Example of a command to run the code:
 
 The problem name, number of initial points, number of BO iterations, preferences for objectives, the balance between objectives and constraints, and the number of seeds can be changed.
 
-Citation:
+If you use this code please cite our paper:
+
+```bibtex
 
   @inproceedings{10.1145/3632410.3632427, 
-  
   author = {Ahmadianshalchi, Alaleh and Belakaria, Syrine and Doppa, Janardhan Rao}, 
   title = {Preference-Aware Constrained Multi-Objective Bayesian Optimization}, 
   year = {2024}, 
@@ -26,3 +27,5 @@ Citation:
   numpages = {10}, 
   location = {, Bangalore, India, }, 
   series = {CODS-COMAD '24} }
+
+````
